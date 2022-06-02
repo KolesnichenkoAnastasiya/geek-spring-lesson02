@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/geek-spring-part-one-24-5/geek-spring-part-one-24-5.iml" filepath="$PROJECT_DIR$/geek-spring-part-one-24-5/geek-spring-part-one-24-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/less02.iml" filepath="$PROJECT_DIR$/.idea/less02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geek-spring-part-one-24-5/lesson-01-servlet/lesson-01-servlet.iml" filepath="$PROJECT_DIR$/geek-spring-part-one-24-5/lesson-01-servlet/lesson-01-servlet.iml" />
+    </modules>
+  </component>
+</project>
